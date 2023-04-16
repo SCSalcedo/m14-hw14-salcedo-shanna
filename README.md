@@ -1,5 +1,5 @@
 #   Components that I used:
-The two components that I used in this assignment was cards and the carousel. 
+The two components that I used in this assignment were cards and the carousel. 
 
 
 
