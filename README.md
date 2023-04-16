@@ -1,4 +1,9 @@
-# Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
+#   Components that I used:
+The two components that I used in this assignment was cards and the carousel. 
+
+
+
+## Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
